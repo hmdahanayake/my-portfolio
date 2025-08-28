@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import AboutImg from "../../assets/about.jpg"
-import CV from '../../assets/my-cv.pdf'
+import CV from '../../assets/hasini-cv.pdf'
 import Data from'./Data'
 function About() {
   return (
@@ -13,9 +13,7 @@ function About() {
             <div className="about__data">
                 <Data/>
                 <p className='about__description'>
-                  Frontend Developer, I create web pages with UI/UX 
-                  user interface, I have years of experience and many clients are happy 
-                  with thw projects carried out.
+                  "Hi, I’m Hasini Dahanayake, a Fullstack Developer specializing in Frontend development. I design and build landing pages and web applications with a strong focus on UI/UX, creating visually appealing and user-friendly experiences. With experience across multiple projects, I help clients bring their ideas to life with responsive, high-quality web solutions."
                 </p>
                 <a download="" href={CV} className="button button--flex">Download Cv
                   <svg

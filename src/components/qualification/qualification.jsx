@@ -43,10 +43,10 @@ function qualification() {
              "qualification__content" }>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Design</h3>
-                <span className="qualification__subtitle">ABC Institute</span>
+                <h3 className="qualification__title">Diploma in IT </h3>
+                <span className="qualification__subtitle">University of Colombo School of Computing</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2022 - Present
+                  <i className="uil uil-calendar-alt"></i>2017 - 2019
                 </div>
               </div>
 
@@ -66,10 +66,10 @@ function qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
-                <span className="qualification__subtitle">ABC Institute</span>
+                <h3 className="qualification__title">Web development Short Course</h3>
+                <span className="qualification__subtitle">University of Moratuwa</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - 2022
+                  <i className="uil uil-calendar-alt"></i>2020
                 </div>
               </div>
             </div>
@@ -78,10 +78,10 @@ function qualification() {
             {/*************************************** */}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">UI Designer</h3>
-                <span className="qualification__subtitle">ABC Institute</span>
+                <h3 className="qualification__title">Higher Diploma in IT</h3>
+                <span className="qualification__subtitle">Web development Short Course</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2020 - 2021
+                  <i className="uil uil-calendar-alt"></i>2018 - 2020
                 </div>
               </div>
 
@@ -101,10 +101,10 @@ function qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Frontend Developer</h3>
-                <span className="qualification__subtitle">ABC Institute</span>
+                <h3 className="qualification__title">Bachelor Information Technology</h3>
+                <span className="qualification__subtitle">University of Colombo School of Computing</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2018 - 2020
+                  <i className="uil uil-calendar-alt"></i>2018 - 2021
                 </div>
               </div>
             </div>
@@ -114,10 +114,10 @@ function qualification() {
              "qualification__content" }>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Frontend Developer</h3>
-                <span className="qualification__subtitle">123 Institute</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2022 - Present
+                <h3 className="qualification__title">Data Operator - Postpaid Connections</h3>
+                <span className="qualification__subtitle"></span>
+                <div className="qualification__calender">SriLanka Mobitel (Pvt)Ltd
+                  <i className="uil uil-calendar-alt"></i>2020
                 </div>
               </div>
 
@@ -137,10 +137,10 @@ function qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
-                <span className="qualification__subtitle">XYZ Institute</span>
+                <h3 className="qualification__title">Inter Software Engineer</h3>
+                <span className="qualification__subtitle">NCINGA</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2021 - 2022
+                  <i className="uil uil-calendar-alt"></i>2023
                 </div>
               </div>
             </div>
@@ -149,10 +149,10 @@ function qualification() {
             {/*************************************** */}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">UI Designer</h3>
-                <span className="qualification__subtitle">LMN Institute</span>
+                <h3 className="qualification__title">Freelancing</h3>
+                <span className="qualification__subtitle"></span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2020 - 2021
+                  <i className="uil uil-calendar-alt"></i>2021 - Present
                 </div>
               </div>
 

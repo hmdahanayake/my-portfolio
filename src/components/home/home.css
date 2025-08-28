@@ -110,9 +110,10 @@ row-gap: 1rem;
         grid-template-columns: 100px repeat(2,1fr);
         column-gap: 1.25rem;
     }
-    .home--hand{
+    .home__hand{
         width: 26px;
         height: 26px;
+        background-color: rgb(184, 43, 43);
 
     }
     .home__subtitle{

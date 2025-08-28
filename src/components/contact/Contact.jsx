@@ -27,7 +27,7 @@ function Contact() {
             <div className="contact__card">
               <i class="bx  bx-envelope-alt contact__card-icon"></i>
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">user@gmail.com</span>
+              <span className="contact__card-data">hmdahanayake@gmail.com</span>
               <a
                 href="mailto:exampleemail@gmail.com.com"
                 className="contact__button"
@@ -41,14 +41,14 @@ function Contact() {
             <div className="contact__card">
               <i class="bx  bx-message-circle-exclamation contact__card-icon"></i>
               <h3 className="contact__card-title">WhatsApp</h3>
-              <span className="contact__card-data">+9477 111 12 12</span>
+              <span className="contact__card-data">+9477 366 67 83</span>
               <a href="" className="contact__button">
                 Write Me{""}
                 <i className="uil uil-arrow-right contact__button-icon"></i>
               </a>
             </div>
             {/******************** */}
-            <div className="contact__card">
+            {/*<div className="contact__card">
               <i class="bx bx-message-circle-notification contact__card-icon" />
               <h3 className="contact__card-title">Messenger</h3>
               <span className="contact__card-data">user.fb123</span>
@@ -56,7 +56,7 @@ function Contact() {
                 Write Me{""}
                 <i className="uil uil-arrow-right contact__button-icon"></i>
               </a>
-            </div>
+            </div>*/}
           </div>
         </div>
 
