@@ -1,6 +1,6 @@
-import Work1 from '../../assets/image1.png'
-import Work2 from '../../assets/image2.png'
-import Work3 from '../../assets/image3.jpg'
+import Work1 from '../../assets/work1.jpg'
+import Work2 from '../../assets/work2.jpg'
+import Work3 from '../../assets/work3.jpg'
 
 
 
