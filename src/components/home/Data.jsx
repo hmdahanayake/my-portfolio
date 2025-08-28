@@ -6,7 +6,7 @@ function Data() {
   return ( 
     <div className='home__data'>
         <h1 className="home__title">
-            Title Name
+            Hasini 
            <video autoPlay loop muted playsInline className='home__hand'>
             <source src={animationData} type="video/mp4" />
           </video>

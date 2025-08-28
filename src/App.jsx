@@ -11,6 +11,7 @@ import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/Footer/Footer'
 import ScrollUp from './components/ScrollUp/ScrollUp'
+import Work from './components/work/Work'
 function App() {
   
   return (
@@ -22,6 +23,7 @@ function App() {
       <Skill/>
       <Service/>
       <Qualification/>
+      <Work/>
       <Testimonials/>
       <Contact/>
      

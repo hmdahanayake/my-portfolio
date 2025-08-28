@@ -39,7 +39,9 @@
         padding: 0 4rem 0 0;
         margin-bottom: var(--mb-2);
     } 
-
+.button:hover{
+   background-color: rgb(46, 43, 43);
+}
 
       /*=====BREAKPOINTS===========*/
   /*FOR LARGE DEVICE*/

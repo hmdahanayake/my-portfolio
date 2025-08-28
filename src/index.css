@@ -1,5 +1,5 @@
 /**********************google fonts*******/
-@import url('https://fonts/googleapis.com/css2? family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 /***variable css*************/
 :root {
@@ -18,15 +18,17 @@
 }*/ 
 --header-height:3rem;
 /*******colors****************/
---hue:0;
---sat:0%;
---title-color: hsl(var(--hue),var(--sat),20%);
---title-color-dark:hsl(var(--hue),var(--sat),0%);
---text-color: hsl(var(--hue),var(--sat),46%);
---body-color: hsl(var(--hue),vr(--sat), 98%);
+ --hue: 220;   /* Blue */
+  --sat: 15%;
+
+  --title-color: hsl(var(--hue), var(--sat), 20%);
+  --title-dark-color: hsl(var(--hue), var(--sat), 10%);
+  --text-color: hsl(var(--hue), var(--sat), 40%);
+  --body-color: hsl(var(--hue), var(--sat), 96%);
+  
 --container-color:#fff;
 /***font typography***********/
---body-font:"Poppins",sans-serif;
+--body-font:'Inter';
 
 /*0.5rem =8px | 1rem = 16px....*/
 --big-font-size:3.5rem;
@@ -113,7 +115,7 @@ img{
 
   /*=====REUSABLE CSS CLASSES======*/
 .section{
-  padding: 6rem 0 2rem;
+  padding: 6rem 0 2rem ;
 }
 .section-title{
   font-size: var(--h1-font-size);
