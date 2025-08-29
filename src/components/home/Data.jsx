@@ -18,7 +18,7 @@ function Data() {
         I'm Fullstack Developer based in Sri Lanka, <br /> & <br /> I'm very
         passionate and dedicate to my work.
       </p>
-
+   <div className="button-card">
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg
@@ -39,6 +39,7 @@ function Data() {
           ></path>
         </svg>
       </a>
+      </div>
     </div>
   );
 }
