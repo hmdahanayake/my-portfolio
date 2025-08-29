@@ -54,11 +54,13 @@
 }
 .services__modal-content{
     width: 500px;
-    position: relative;
+    max-width: 80vw;        /* ✅ shrink on small screens */
     background-color: var(--container-color);
-    padding: 5.5rem 2.5rem 2.5rem;
-    border-radius: 1.5rem;
+    position: relative;
     
+    border-radius: 2.5rem;
+    margin-right: 7rem;
+ 
 }
 .services__modal-close{
     position: absolute;
@@ -85,11 +87,13 @@
 }
 .services__modal-services{
     row-gap: 1.5rem;
+   
     
 }
 .services__modal-service{
-    display: flex;
-    column-gap: 0.75rem;
+     display: flex;
+  align-items: flex-start;  /* ✅ keeps text top-aligned with icon */
+  column-gap: 0.75rem;
 }
 .services__modal-icon{
     color: var(--title-color);
@@ -98,7 +102,9 @@
     
 }
 .services__modal-info{
-    font-size: var(--small-font-size);
+     flex: 1;                  /* ✅ text takes remaining space */
+  text-align: left;         /* ✅ always starts near icon */
+  word-break: break-word;   /* ✅ prevents overflow on small screens */
 
     
 }
@@ -113,7 +119,7 @@
   /*FOR LARGE DEVICE*/
   @media screen and(max-width: 992px){
    .services__container{
-    grid-template-columns: repeat(3,218px);
+    grid-template-columns: repeat(3,218px); 
    }
 
   }

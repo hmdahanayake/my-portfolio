@@ -5,7 +5,7 @@
   justify-items: center;
     column-gap: 4rem;
     padding-top: 4rem;
-}
+} 
 .about__img{
     width: 300px;
     border-radius: 1.5rem;
@@ -85,7 +85,7 @@
   
   @media screen and (max-width:576px) {
     .about__container{
-        
+         
     grid-template-columns: 1fr;
     align-items: center;
   justify-items: center;
@@ -93,6 +93,7 @@
 
     
     }
+    
     .about__info{
         grid-template-columns: repeat(3,1fr);
     }

@@ -139,7 +139,7 @@ function Service() {
                         <h3 className="services modal-title">Fullstack Developer</h3>
                         <p className="services__modal-description">
                            Service with more than 3 years of experience. Providing quality work to clients & companies.
-                        </p>
+                        </p> 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
