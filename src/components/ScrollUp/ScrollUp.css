@@ -44,7 +44,7 @@
   @media screen and (max-width:768px){
     .show-scroll{
         bottom: 4rem;
-        right:8.5rem
+        right:1.5rem
     }
     .scrollup{
            position: fixed;
